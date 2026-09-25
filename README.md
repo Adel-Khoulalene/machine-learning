@@ -18,7 +18,7 @@ Ce projet utilise une approche orientée données pour modéliser l'expertise œ
 
 ### 1. Cloner le dépôt
 ```bash
-git clone [https://github.com/Adel-Khoulalene/machine-learning.git](https://github.com/Adel-Khoulalene/machine-learning.git)
+git clone https://github.com/Adel-Khoulalene/machine-learning.git
 cd machine-learning
 ```
 ### 2. Créer un environnement virtuel (recommandé)
